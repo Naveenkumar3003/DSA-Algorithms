@@ -21,3 +21,6 @@ class Solution {
         return j;
     }
 };
+
+#TC: Best, Avg case = O(nlog n), Worst Case = O(n^2) [if the pivot is smallest or largest element, leads to unbalanced partition]
+#SC: Recursion stack space- best,avg=O(nlog n)    worst = O(n^2)
