@@ -15,3 +15,5 @@ class Solution {
         
     }
 };
+
+#TC: worst and avg case= O(n^2), Best case=O(n) [if the array is already sorted]
