@@ -34,3 +34,6 @@ class Solution {
         }   
     }
 };
+
+#TC: Best, Worst, Avg case = O(nlog n)
+#SC: O(n) [because in merge function we are using extra array]
